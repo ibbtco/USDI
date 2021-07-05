@@ -6,7 +6,7 @@
 > What is a iBBT Index Fund Series A or (USDI)?  
 - Etherscan : [0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69](https://etherscan.io/token/0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69)
 - Ethplorer : [0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69](https://ethplorer.io/address/0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69)
-- Exchange  : [0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69](https://mooniswap.info/token/0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69) (Follow the link to see the current USMI value)
+- Exchange  : [0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69](https://mooniswap.info/token/0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69) (Follow the link to see the current USDI value)
 - Main Features: Run on the ethereum blockchain
 
 >The U.S. Dollar Monetary Index is an index of the value of the United States dollar-pegged to a basket of Stablecoins, This type of Index can be used by U.S. trade partners' to exchange value when large amounts are needed. For example, 1 USDI is exchangeable for the ten basket currencies listed below. The Index gives the U.S. dollar "strength" through stability with minimal price deviation. (change it)
