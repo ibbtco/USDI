@@ -17,6 +17,6 @@ The USDI can be acquired directly from iBlockchain Bank & Trust or iBBT mint any
 
 <div style="position:absolute;left:0px; top:0px;"><img src="https://github.com/ibbtco/USDI/blob/main/images/USDI%202021-07-05%2017-08-13.png"></div>
 
-- Exchange Pair : [ETH/USDI](https://mooniswap.info/pair/0x5A2D2951a98e0e62a10ff155D9164AF9415EbC69)
+- Exchange Pair : [ETH/USDI](https://mooniswap.info/pair/0xb3989dc6c3fddc808b9a84f638e677ffca8262fb)
 
 
